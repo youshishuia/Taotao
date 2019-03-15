@@ -1,7 +1,7 @@
 package com.taotao.common.pojo;
 
 import java.io.Serializable;
-
+//目录节点工具类
 public class EasyUITreeNode implements Serializable {
 
     private long id;

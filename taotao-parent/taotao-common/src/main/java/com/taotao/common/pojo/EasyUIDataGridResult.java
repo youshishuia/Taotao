@@ -10,7 +10,7 @@ import java.io.Serializable;
  * @version 1.0
  */
 import java.util.List;
-
+//分页查询工具类
 public class EasyUIDataGridResult implements Serializable {
 
     private Integer total;
